@@ -73,8 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Cilie Feldager works on Statistics under Stochastic Metric. Her research interests include Gaussian process latent variable models, stochastic geometry and symmetries and equivariance. She is in her final year of her PhD supervised by Professors Søren Hauberg and Lars Kai Hansen at the Cogtive Systems Section at the Technical University of Denmark
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
